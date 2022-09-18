@@ -2,6 +2,9 @@
   <b>Dogukan CIFCI</b> 
   <br>
   <a href="https://www.linkedin.com/in/dogukan-cifci-b68707240/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/DogukanCifci">
+  <img align="center" src="https://komarev.com/ghpvc/?username=DogukanCifci" alt="DogukanCifci"  width="16%"/>
+</a>
 </h1>
 
 Heya! I'm Dogukan Cifci, a Full-Stack Web Developer currently living in Stuttgart, Germany. I'm working at Think3DDD as a Frontend Developer.
