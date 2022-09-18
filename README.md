@@ -3,7 +3,7 @@
 </h1>
 
 Heya! I'm Dogukan Cifci, a Full-Stack Web Developer currently living in Stuttgart, Germany. I'm working at Think3DDD as a Frontend Developer.
-
+<a href="www.linkedin.com/in/dogukan-cifci-b68707240"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <br>
 
 <p>
@@ -23,6 +23,8 @@ Heya! I'm Dogukan Cifci, a Full-Stack Web Developer currently living in Stuttgar
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
   <img src="https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </div>
 </p>
 
@@ -77,6 +79,12 @@ if __name__ == '__main__':
 </p>
 <br>
 
+<p align="center">
+<a href="">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={DogukanCifci}">
+</a>
+</p>
+<br>
 [![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=DogukanCifci&custom_title=Dogukan%20Cifci's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/DogukanCifci)
 
 ------
