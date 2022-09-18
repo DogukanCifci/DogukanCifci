@@ -1,9 +1,11 @@
 <h1 align="center">
-  <b>Dogukan CIFCI</b>
+  <b>Dogukan CIFCI</b> 
+  <br>
+  <a href="https://www.linkedin.com/in/dogukan-cifci-b68707240/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </h1>
 
 Heya! I'm Dogukan Cifci, a Full-Stack Web Developer currently living in Stuttgart, Germany. I'm working at Think3DDD as a Frontend Developer.
-<a href="www.linkedin.com/in/dogukan-cifci-b68707240"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 <br>
 
 <p>
@@ -25,6 +27,10 @@ Heya! I'm Dogukan Cifci, a Full-Stack Web Developer currently living in Stuttgar
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+  <img src="https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  <igm src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white">
 </div>
 </p>
 
@@ -80,12 +86,14 @@ if __name__ == '__main__':
 <br>
 
 <p align="center">
-<a href="">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={DogukanCifci}">
+<a href="https://github.com/DogukanCifci">
+<img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=DogukanCifci&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="DogukanCifci" 
+    bg_color=#808080/>
 </a>
 </p>
 <br>
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=DogukanCifci&custom_title=Dogukan%20Cifci's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/DogukanCifci)
 
 ------
 
