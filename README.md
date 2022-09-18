@@ -47,7 +47,24 @@ if __name__ == '__main__':
   </a>
 </div>
 
+<Br>
+<h1>Certifications! 🏆</h1>
+<Br>
+  
+  <div align="center">
+<a href="https://coursera.org/verify/RCWP287J9383"><img src="https://img.shields.io/badge/-Programming%20with%20Python%20for%20Everybody-orange"</a>
+<a href="https://coursera.org/verify/M2FYQPB2ZJPM"><img src="https://img.shields.io/badge/-What%20is%20Data%20Science-blue"</a>
+<a href="https://coursera.org/verify/3FPL2AR3BRG3"><img src="https://img.shields.io/badge/-Python%20Data%20Structures-yellowgreen"</a>
+<a href="https://coursera.org/verify/D89CGMLS5GLK"><img src="https://img.shields.io/badge/-Introduction%20to%20Web%20Development(University%20of%20California)-red"</a>
+<a href="https://coursera.org/verify/JMAEWSXWHK8C"><img src="https://img.shields.io/badge/-Python%20for%20Data%20Science%2C%20AI%20%26%20Development-green"</a>
+<a href="https://coursera.org/verify/BMTZ62GT5K8D"><img src="https://img.shields.io/badge/-Introduction%20to%20Cloud%20Computing-red"</a>
+<a href="https://coursera.org/verify/MDG4HG2XJP4Y"><img src="https://img.shields.io/badge/-Using%20Python%20to%20Access%20Web%20Data-orange"</a>
+<a href="https://coursera.org/verify/EW5Y455CKGFG"><img src="https://img.shields.io/badge/-Introduction%20to%20Frontend%20Development(META)-red"</a>
+<a href="https://coursera.org/verify/A8LD8SKNA6PH"><img src="https://img.shields.io/badge/-Introduction%20to%20Web%20Development(IBM)-blue"</a>
+<a href="https://coursera.org/verify/H9GKDFB4ZPAY"><img src="https://img.shields.io/badge/-Getting%20Started%20with%20Git%20and%20GitHub-green"</a>
+ </div>
 
+<Br>
 
 ## My Statistics
 
